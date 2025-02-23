@@ -7,3 +7,13 @@
 .bash_sessions
 *.zwc
 Library/
+.DS_Store
+.config/
+.zshrc
+.gitconfig
+Desktop/
+Downloads/
+Movies/
+Music/
+Pictures/
+.Trash/
